@@ -1,3 +1,28 @@
+
+
+# Movie Detail Search App 
+
+A React.js web application that allows users to search for movie details using a free movie details API.
+
+## Features
+
+- Search movies by name
+- Display detailed information about the movie
+- Show a "Movie Not Found" message with an error image if the movie is not available in the API
+- Display a loader during details fetching time
+
+## Screenshots
+![image](https://github.com/Pradnya129/Movie_search_app_ReactJS/assets/129608807/fdfad718-e265-46a6-9c3e-46949818418f)
+![image](https://github.com/Pradnya129/Movie_search_app_ReactJS/assets/129608807/73a60c89-55ea-452e-a7c6-92448b2d3832)
+![image](https://github.com/Pradnya129/Movie_search_app_ReactJS/assets/129608807/1b5105b8-2c0d-4ba0-9a70-8a023414da6c)
+![image](https://github.com/Pradnya129/Movie_search_app_ReactJS/assets/129608807/22610127-558e-4ac4-a3bc-38e78e435f0f)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
